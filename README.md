@@ -1,20 +1,9 @@
-<<<<<<< HEAD
-# movies_app
-=======
-# movie_app
->>>>>>> 048b15c593b85ee068b9091a2409d14b1d9ebdc3
+# Screens
+![Untitled](https://github.com/user-attachments/assets/88934758-7c6f-41c7-850a-8f01824f8f83)
+![Untitled](https://github.com/user-attachments/assets/f180cfc5-9193-4a53-8873-4bdba54979eb)
+![Untitled](https://github.com/user-attachments/assets/501f2a41-01e0-478e-92fc-173b8ef16c7d)
+![Untitled](https://github.com/user-attachments/assets/052bdd93-c658-425e-83b1-43a1461e998e)
+![Untitled](https://github.com/user-attachments/assets/9c52ed12-e79f-4fcf-9547-3fbb9ecad1cf)
+![Untitled](https://github.com/user-attachments/assets/2e2a61e1-17ba-4afd-9ae4-b2cc6c3aa732)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
